@@ -1,7 +1,6 @@
 ## Hi there 👋 student!
 
-
-![branding-corporate-dark-2023-ALL-RIGHTS-RESERVED-PENCIL-WORKS-LLC@3x](https://user-images.githubusercontent.com/5947268/235451594-ae2ffadc-6373-4fb5-9464-d017c6caa990.png)
+![dark-banner-doc-mbauniversity-2023-all-rights-reserved](https://user-images.githubusercontent.com/5947268/235471216-32fb59da-3cb1-4982-be18-755f45ade81b.png)
 
 # MBA University
 
