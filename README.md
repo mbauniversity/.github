@@ -1,1 +1,1 @@
-# .github
+# MBA University
