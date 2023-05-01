@@ -30,7 +30,7 @@ We welcome contributions from the community! If you would like to contribute to 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Please see the [LICENSE](LICENSE) file for more information.
+This project is licensed under the [PYLAR AI Creative ML License](LICENSE). Please see the [LICENSE](LICENSE) file for more information.
 
 ## Connect with Us
 
