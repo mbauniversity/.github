@@ -1,6 +1,6 @@
 ## Hi there 👋 student!
 
-![Uploading dark-menu-web-mbauniversity-2023-all-rights-reserved@3x.png…]()
+![dark-menu-web-mbauniversity-2023-all-rights-reserved@3x](https://user-images.githubusercontent.com/5947268/235471595-500941f7-19b8-45b4-873f-c9d70fd16137.png)
 
 # MBA University
 
