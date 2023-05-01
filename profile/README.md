@@ -1,6 +1,6 @@
 ## Hi there 👋 student!
 
-![dark-banner-doc-mbauniversity-2023-all-rights-reserved](https://user-images.githubusercontent.com/5947268/235471216-32fb59da-3cb1-4982-be18-755f45ade81b.png)
+![dark-banner-doc-mbauniversity-2023-all-rights-reserved](https://user-images.githubusercontent.com/5947268/235471380-3c7ce2f2-2517-46ac-bf34-8597836c093f.png)
 
 # MBA University
 
